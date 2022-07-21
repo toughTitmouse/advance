@@ -1,0 +1,23 @@
+{
+  "name": "@ip8/advance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toughTitmouse/advance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toughTitmouse/advance/issues"
+  },
+  "homepage": "https://github.com/toughTitmouse/advance#readme",
+  "dependencies": {
+    "@ip8/medium": "^1.0.0"
+  }
+}
