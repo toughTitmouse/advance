@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/toughTitmouse/advance#readme",
   "dependencies": {
-    "@ip8/basic-2": "^1.0.0",
     "@ip8/medium": "^1.0.0"
   }
 }
